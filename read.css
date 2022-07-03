@@ -1,0 +1,50 @@
+.reply_bottom {
+	text-align: right;
+}
+.reply_nickname {
+	font-size:19px;
+}
+.reply_read_box{
+	border:2px solid;
+	width: 900px;
+	word-wrap: break-word;
+}
+.reply_nickname{
+	display: inline-block;
+}
+.reply_created {
+	float:right;
+	display: inline-block;
+}
+.reply_container{
+	margin-top:100px;
+}
+#board_read {
+width:900px;
+position: relative;
+word-break:break-all;
+}
+#user_info {
+font-size:14px;
+text-align:right;
+}
+#user_info ul li {
+float:left;
+margin-left:10px;
+}
+#bo_line {
+width:880px;
+height:2px;
+background: gray;
+margin-top:20px;
+}
+#description {
+margin-top:20px;
+margin-bottom:50px;
+}
+#bo_ser {
+font-size:14px;
+color:#333;
+position: absolute;
+right: 0;
+}

@@ -1,0 +1,12 @@
+.board_navigate {
+	font-size : 20px;
+}
+.board thead th{
+	border-top:2px solid;
+	border-bottom:1px solid;
+}
+.board tbody td{
+	text-align:center;
+	border-bottom:1px solid;
+	padding:8px 0;
+}
